@@ -7,7 +7,7 @@ Browser CLI is a simple set of shell scripts designed to smooth out your develop
 
 # Installation
 - Add your preferred Browser CLI file to your path. On macOS (OS X), this folder is located at `/usr/local/bin`. 
-- Before using, be sure to update the files permissions to 755.
+- Before using, be sure to update the files permissions to `755`.
 
 Alternatively, add your desired function to your `~/.bash_profile` and run `source ~/.bash_profile`.
 
