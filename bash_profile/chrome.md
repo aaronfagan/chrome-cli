@@ -1,6 +1,7 @@
 Add the following to your `.bash_profile` and run `source ~/.bash_profile`.
 
-```function chrome() {
+```
+function chrome() {
     BROWSER='Google Chrome'
     HOME_URL='https://www.google.ca/'
     if [ ! -z "$1" ]
@@ -12,4 +13,5 @@ Add the following to your `.bash_profile` and run `source ~/.bash_profile`.
             open -a "$BROWSER"
         fi
     fi
-}```
+}
+```
