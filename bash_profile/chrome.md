@@ -1,4 +1,4 @@
-Add the following to your `.bash_profile` and run `source ~/.bash_profile`.
+Add the following to your `~/.bash_profile` and run `source ~/.bash_profile`.
 
 ```
 function chrome() {
