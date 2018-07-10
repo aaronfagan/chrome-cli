@@ -1,4 +1,4 @@
-![HitCount](http://hits.dwyl.io/aaronfagan/svg-credit-card-payment-icons.svg)
+![HitCount](http://hits.dwyl.io/aaronfagan/browser-cli.svg)
 # Browser CLI
 By [Aaron Fagan](https://www.aaronfagan.ca/)
 
