@@ -10,7 +10,7 @@ If you would like to modify the default home page URL coded into these commands,
 - Before using, be sure to update the binary file permissions to `755`.
 
 ### Bash Profile
-Alternatively, add the code outlined in [bash_profile.md](bash_profile.md) to your `~/.bash_profile` file and run `source ~/.bash_profile`.
+Add the code outlined in [bash_profile.md](bash_profile.md) to your `~/.bash_profile` file and run `source ~/.bash_profile`.
 
 ## Usage
 In your terminal of choice, run the following commands to achieve the described results:
