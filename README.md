@@ -1,6 +1,6 @@
 ![HitCount](http://hits.dwyl.io/aaronfagan/chrome-cli.svg)
 # Chrome CLI
-Chrome CLI is a simple set of shell script functions & binaries designed to smooth out your development workflow using Google Chrome.
+Chrome CLI is a simple shell binary/bash function designed to smooth out your development workflows using Google Chrome. Designed for macOS (OS X) and Linux based operating systems.
 
 ## Installation
 If you would like to modify the default home page URL coded into these commands, open the desired file and modify the `HOME_URL` variable to suit your liking.
