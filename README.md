@@ -9,7 +9,7 @@ If you would like to modify the default home page URL coded into these commands,
 - Add the [Chrome CLI binary](chrome) file to your path. On macOS (OS X), this folder is located at `/usr/local/bin`. 
 - Before using, be sure to update the binary file permissions to `755`.
 
-### Bach Profile
+### Bash Profile
 Alternatively, add the code outlined in [bash_profile.md](bash_profile.md) to your `~/.bash_profile` file and run `source ~/.bash_profile`.
 
 ## Usage
