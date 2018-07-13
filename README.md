@@ -1,5 +1,5 @@
 ![HitCount](http://hits.dwyl.io/aaronfagan/chrome-cli.svg)
-# Chrome CLI
+# Chrome CLI - Test
 Chrome CLI is a shell binary application designed to help smooth out your development workflow using Google Chrome.
 
 Designed for macOS (OS X) and Linux based operating systems.
