@@ -21,8 +21,5 @@ In your terminal of choice, run the following commands to achieve the described 
 - `chrome /some/folder` Opens a new browser tab at the specified folder location.
 - `chrome /some/file.html` Opens a new browser tab at the specified file.
 
-## Authors
-- Aaron Fagan - [www.aaronfagan.ca](https://www.aaronfagan.ca/)
-
-## License
-This project is licensed under the [GNU General Public License](LICENSE).
+# Contributors
+* Aaron Fagan - [Github](https://github.com/aaronfagan), [Website](https://www.aaronfagan.ca/)
