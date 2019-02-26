@@ -1,4 +1,3 @@
-![HitCount](http://hits.dwyl.io/aaronfagan/chrome-cli.svg)
 # Chrome CLI
 Chrome CLI is a shell binary application designed to help smooth out your development workflow using Google Chrome.
 
