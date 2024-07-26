@@ -19,6 +19,3 @@ In your terminal of choice, run the following commands to achieve the described 
 - `chrome .` Opens a new browser tab at your current folder location.
 - `chrome /some/folder` Opens a new browser tab at the specified folder location.
 - `chrome /some/file.html` Opens a new browser tab at the specified file.
-
-# Contributors
-* Aaron Fagan - [Github](https://github.com/aaronfagan), [Website](https://www.aaronfagan.ca/)
